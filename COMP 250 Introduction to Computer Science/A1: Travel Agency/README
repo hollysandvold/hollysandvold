@@ -1,0 +1,5 @@
+The goal of this project was to simulate a travel agency, 
+where reservations could be made for flights, hotels, and bnbs.
+
+Customers could add or remove reservations until they were ready
+to check out.
